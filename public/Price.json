@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "features": [
+        "Access to cardio area",
+        "Access to weightlifting area",
+        "Locker room access",
+        "2 guest passes per month",
+        "Discounts on personal training"
+      ],
+      "price": 29.99,
+      "kg" :30
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "features": [
+        "Access to all facilities",
+        "Access to group classes",
+        "Personal trainer sessions (2/month)",
+        "Nutritional consultation",
+        "Sauna access"
+      ],
+      "price": 49.99,
+      "kg" :60
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "features": [
+        "Access to all facilities",
+        "Unlimited group classes",
+        "Unlimited personal trainer sessions",
+        "Access to swimming pool",
+        "Towel service",
+        "Free smoothie per visit"
+      ],
+      "price": 79.99,
+      "kg" :80
+    }
+  ]
+  
